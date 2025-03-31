@@ -45,3 +45,5 @@ Aplikacja CRUD służy do tworzenia dynamicznych harmonogramów pracy integralny
 - FastAPI
 - PostgreSQL 17.0  
 - Docker
+
+![FastAPI Swagger](swagger.png)
