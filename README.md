@@ -9,8 +9,6 @@ Aplikacja CRUD służy do tworzenia dynamicznych harmonogramów pracy integralny
 - **Zarządzanie pracownikami** (dodawanie, edytowanie, usuwanie, pobieranie danych)
 - **Zarządzanie harmonogramem** (dodawanie, edytowanie, usuwanie)
 - **Zarządzanie dyspozycyjnością** (dodawanie, edytowanie, usuwanie)
-- **Filtrowanie według daty** (możliwość pobrania harmonogramu na dany dzień lub tydzień)
-- **Filtracja według stanowiska** (pobieranie grafików według typu stanowiska)
 - **Pobieranie statystyk**
 
 
@@ -27,7 +25,7 @@ Aplikacja CRUD służy do tworzenia dynamicznych harmonogramów pracy integralny
 - Może sprawdzić, którzy pracownicy są dostępni w danym dniu i w jakich godzinach.
 
 ## #3. Kierownik układa harmonogram pracy
-- Kierownik przypisuje pracowników do zmian na podstawie ich dostępności.
+- Kierownik przypisuje pracowników do zmian na podstawie ich dostępności. Dopisuje stanowisko pracy (BAR, USHERING, GROUPS, DELIVERY).
 - System sprawdza, czy dany pracownik jest dostępny w wybranych godzinach:
     - Jeśli nie – zwraca błąd wraz z informacją o rzeczywistej dostępności.
     - Jeśli czas między kolejnymi zmianami wynosi poniżej 12h – system zwraca błąd o zbyt krótkim odstępie między zmianami.
