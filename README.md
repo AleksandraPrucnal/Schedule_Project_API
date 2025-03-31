@@ -24,7 +24,7 @@ Aplikacja CRUD służy do tworzenia dynamicznych harmonogramów pracy integralny
 - Kierownik ma dostęp do listy zgłoszonych dyspozycyjności.
 - Może sprawdzić, którzy pracownicy są dostępni w danym dniu i w jakich godzinach.
 
-## #3. Kierownik układa harmonogram pracy
+### 3. Kierownik układa harmonogram pracy
 - Kierownik przypisuje pracowników do zmian na podstawie ich dostępności. Dopisuje stanowisko pracy (BAR, USHERING, GROUPS, DELIVERY).
 - System sprawdza, czy dany pracownik jest dostępny w wybranych godzinach:
     - Jeśli nie – zwraca błąd wraz z informacją o rzeczywistej dostępności.
