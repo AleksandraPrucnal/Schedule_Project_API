@@ -7,8 +7,8 @@ Aplikacja CRUD służy do tworzenia dynamicznych harmonogramów pracy integralny
 ## Lista funkcjonalności
 
 - **Zarządzanie pracownikami** (dodawanie, edytowanie, usuwanie, pobieranie danych)
-- **Zarządzanie harmonogramem** (dodawanie, edytowanie, usuwanie)
-- **Zarządzanie dyspozycyjnością** (dodawanie, edytowanie, usuwanie)
+- **Zarządzanie harmonogramem** (dodawanie, edytowanie, usuwanie, pobieranie danych)
+- **Zarządzanie dyspozycyjnością** (dodawanie, edytowanie, usuwanie, pobieranie danych)
 - **Pobieranie statystyk**
 
 
